@@ -2,8 +2,7 @@
 The purpose of this project is to demonstrate the ability to collect, work with, and clean a data set.
 
 ## Original Dataset
-"Human Activity Recognition database built from the recordings of 30 subjects performing activities of daily living (ADL) while carrying a waist-mounted smartphone with embedded inertial sensors."
-url (proejct description) http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
+url (project description) http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
 url (zip file) https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 
 ## Steps to reproduce the analysis
