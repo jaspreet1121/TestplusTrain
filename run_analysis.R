@@ -127,4 +127,4 @@ tidyDataSmall <- tidyDataSmall[order(tidyDataSmall$Subject,tidyDataSmall$Activit
 # saving to file
 # ***********************************
 print("saving Smaller Data Set to file")
-write.table(tidyDataSmall, file = "HumanActivityDataSet-small.txt", row.names = FALSE)
+write.table(tidyDataSmall, file = "result.txt", row.names = FALSE)
